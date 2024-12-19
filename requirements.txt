@@ -15,7 +15,7 @@ Werkzeug==0.8.3
 Whoosh==2.4.1
 argparse==1.2.1
 blinker==1.2
-gunicorn==0.14.6
+gunicorn==22.0.0
 passlib==1.6
 python-dateutil==1.5
 tablib==0.9.11
